@@ -96,15 +96,12 @@ Two tables were used:
 
 ---
 
-## 🎯 Business Impact
-       - Identifies vehicles with high maintenance costs vs efficiency.
-       - Highlights delivery performance trends across destinations.
-       - Provides actionable insights to reduce cost per km and improve on-time delivery rates.
-
----
-
 ## 📷 Dashboard Preview
 
 <img width="1361" height="788" alt="image" src="https://github.com/user-attachments/assets/dadabefa-f5cb-4cfa-b6c7-7e84626441bd" />
+
+## 👩‍💻 Author
+Shareena Beevi  
+Aspiring Data Analyst
 
 #PowerBI #DataAnalytics #Logistics #Dashboard #AI
